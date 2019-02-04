@@ -3,9 +3,7 @@
 <title>Vigitra Thongnil</title>
 
 <style>
-body {
-      background-color:#CCFFFF;
-     }
+body 
 </style> 
 
 </head>
