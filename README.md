@@ -1,37 +1,104 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<title>Vigitra Thongnil</title>
 
-You can use the [editor on GitHub](https://github.com/VgtTh/vigitra15/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<style>
+body {
+      background-color:#CCFFFF;
+     }
+</style> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</head>
 
-### Markdown
+<body>
+<img src="vigitra.jpg"width="200">
+<br><b>นางสาววิจิตรา ทองนิล</b>
+<br><b>ชื่อเล่น</b> เจน
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p><b>เกิดวันที่ </b>
+<br>15 เมษายน 2541
 
-```markdown
-Syntax highlighted code block
+<p><b>กำลังศึกษา </b>
+<br>คณะ ครุศาสตร์
+<br>สาขา คอมพิวเตอร์ศึกษา
+<br>มหาวิทยาลัยราชภัฎพระนครศรีอยุธยา
+ 
+<p><b>ประวัติการศึกษา </b>
+<ol>
+<li>เรียนระดับชั้นประถมศึกษาที่โรงเรียนวัดท่าชุมนุม </li>
+<li>เรียนระดับชั้นมัธยมศึกษาที่โรงเรียนสามโก้วิทยาคม </li>
+  
+<p><b>Game</b></p>
+<ol>
+<li><a href="https://rov.in.th/">ROV</a></li>
+<li><a href="#PUBG">PUBG</a></li>
+<li><a href="#FREEFIRE">FREEFIRE</a></li>
+</ol>
 
-# Header 1
-## Header 2
-### Header 323156
 
-- Bulleted
-- List
+<p><table border="1">
+<tr>
+<th>ชื่อ</th>
+<th>น้ำหนัก</th>
+<th>ส่วนสูง</th>
+</tr>
+<tr>
+<td>เจน</td>
+<td>58</td>
+<td>167</td>
+</tr>
+<tr>
+<td>วี</td>
+<td>62</td>
+<td>170</td>
+</tr>
+<tr>
+<td>ออม</td>
+<td>75</td>
+<td>165</td>
+</tr>
+</table>
 
-1. Numbered
-2. List
+  
+<br><b>ประวัติ</b><br>
+ดิฉันกำลังศึกษาอยู่ที่<em>มหาวิทยาลัยราชภัฏพระนครศรีอยุธยา</em> ในคณะ<strong>ครุศาสตร์ สาขาคอมพิวเตอร์ศึกษา</strong><br>
+สาขาของดิฉันคือสาขาคอมพิวเตอร์ศึกษา แต่บางคนใช้คำว่า <s>สาขาคอมพิวเตอร์</s> ซึ่งมันผิด<br>
+<sup>Hello4</sup>Hello<br>
+<sub>Hello5</sub>Hello
 
-**Bold** and _Italic_ and `Code` text
+<p><b>คุณสมบัติของเกมส์ </p></b>
+<dl<
+	<dt>ROV</dt>
+	<dd>เป็นเกมส์ยอดนิยม</dd>
+	<dt>PUBG</dt>
+	<dd>เป็นเกมส์ที่มีภาพสวย</dd>
+	<dt>FREEFILE</dt>
+	<dd>เป็นเกมส์ที่สนุก</dd>
+</dl>
 
-[Link](url) and ![Image](src)
-```
+<hr>
+<dl>
+	<dt><b>ROV</b></dt>
+	<dd>เป็นเกมส์ยอดนิยม</dd>
+</dl>
+<a name="ROV"></a>
+<img src="ROV.jpg" height="200">
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+<dl<	
+	<dt><p><b>PUBG</b></p></dt>
+	<dd>เป็นเกมส์ที่มีภาพสวย</dd>
+</dl>
+<a name="PUBG"></a>
+<img src="PUBG.jpg" height="200">
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VgtTh/vigitra15/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+<dl<
+	<dt><p><b>FREEFILE</b>,</p></dt>
+	<dd>เป็นเกมส์ที่สนุก</dd>
+</dl>
+<a name="FREEFIRE"></a>
+<img src="FREEFIRE.jpg" height="200">
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
